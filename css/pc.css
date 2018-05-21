@@ -1,0 +1,158 @@
+header .gouwu p:nth-child(1){
+	display: none;
+}
+.zong{
+	margin-left: 53px;
+	margin-right: 53px;
+}
+header{
+	width: 100%;
+	height: 50px;
+	position: relative;
+}
+header img{
+	position: absolute;
+	left: 0px;
+	top: 10px;
+}
+header .gouwu{
+	height: 50px;
+	line-height: 50px;
+	border-left: 1px solid #fff;
+	width: 185px;
+	background-color: #fff;
+	position: absolute;
+	top: 0px;
+	left: 87%;
+}
+header .gouwu p{
+	margin-right: 30px;
+	font-size: 16px;
+	margin-top: 10px;
+	display: inline
+}
+.banner p:nth-child(1){
+	display: none;
+}
+.banner p:nth-child(2){
+	display: inline;
+}
+.center{
+	display: none;
+}
+.center2{
+	display: inline;
+}
+.center2 .tt3{
+	margin-right: 0%;
+	margin-left: 0.4%;
+}
+.center2 div{
+	margin-top: 25px;
+	margin-bottom: 50px;
+	margin-right: 6.5%;
+	width: 20%;
+	float: left;
+}
+.center2 div p a{
+	color: blue;
+}
+.center2 div h5{
+	font-size: 15px;
+}
+.center2 div a{
+	font-size: 14px;
+	color: #000;
+}
+.center2 div img{
+	width: 100%;
+}
+.bann3 .a1{
+	display: none;
+}
+.bann3 .a2{
+	display: inline;
+}
+.bann3 img{
+	width: 100%;
+}
+.shangcheng{
+	display: none;
+}
+.didian{
+	display: none;
+}
+.didian2{
+	display: inline;
+}
+.didian2 .tt3{
+	margin-right: 0%;
+	margin-left: 0.4%;
+}
+.didian2 div{
+	margin-top: 25px;
+	margin-bottom: 50px;
+	margin-right: 6.5%;
+	width: 20%;
+	float: left;
+}
+.didian2 div p a{
+	color: blue;
+}
+.didian2 div h5{
+	font-size: 15px;
+}
+.didian2 div a{
+	font-size: 14px;
+	color: #000;
+}
+.didian2 div img{
+	width: 100%;
+}
+.didian2 h4{
+	margin-top: 10px;
+}
+.weiruan .a1{
+	display: none;
+}
+.weiruan .a2 img{
+	height: 350px;
+}
+.weiruan .a2{
+	display: inline;
+}
+.weiruan{
+	position: relative;
+}
+.ruan{
+	position: absolute;
+	top: 0;
+}
+.weiz{
+	background-color: rgba(0, 0, 0, 0);
+	position: absolute;
+	top: 50%;
+	left: -35%;
+}
+.footer{
+	display: none;
+}
+.footer1{
+	margin-top: 100px;
+}
+.footer1 div{
+	width: 15%;
+	margin-top: 50px;
+	color: #616161;
+	float: left;
+	margin-right: 2%;
+}
+.footer1 div p{
+	font-size: 14px;
+	font-weight: normal;
+}
+.footer1 div:nth-child(6){
+	margin-right: 0;
+}.footer1{
+	display: inline;
+}
